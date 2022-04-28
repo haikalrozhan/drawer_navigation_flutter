@@ -1,4 +1,6 @@
 # drawer_navigation
+![snapshot](https://github.com/haikalrozhan/drawer_navigation_flutter/blob/main/snapshots/screenshot.png)
+<br/><br/><br/>
 
 A new Flutter project.
 
